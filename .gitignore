@@ -137,3 +137,8 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+roadmap.md
+getting_started.md
+architecture.md
+tech_learning_guide.md
